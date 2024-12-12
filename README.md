@@ -43,14 +43,10 @@ Silica concentrate is a critical metric in mineral processing, and accurately pr
    git clone https://github.com/yourusername/silica-concentration-prediction.git
    cd silica-concentration-prediction
 
-Install dependencies:
-
-bash
-Copy code
+2. Install dependencies:
 pip install -r requirements.txt
-Run the main script:
 
-bash
-Copy code
+3. Run the main script:
 python main.py
-View the predictions in the answer2.csv and answer3_updated.csv files.
+
+4. View the predictions in the answer2.csv and answer3_updated.csv files.
