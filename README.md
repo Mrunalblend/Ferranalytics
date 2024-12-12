@@ -50,3 +50,5 @@ pip install -r requirements.txt
 python main.py
 
 4. View the predictions in the answer2.csv and answer3_updated.csv files.
+
+## PS - train.csv and test.csv are very large files so, pls use this link and download from here :) https://www.kaggle.com/competitions/Ferralytics/data
